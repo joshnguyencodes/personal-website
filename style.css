@@ -1,0 +1,62 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+
+body {
+    font-family: "Bai Jamjuree", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.nav-page{
+    font-size: x-large; 
+}
+
+.navbar{
+    margin-bottom: 30px;
+}
+
+.about{
+    margin-bottom: 10%;
+}
+
+.about .profile-pic{
+    max-width: 50%;
+    border-radius: 100%;
+    
+}
+
+.about .info h3{
+    color:rgb(85, 85, 85);
+}
+
+.section{
+    margin-bottom: 20%;
+}
+
+.about .profile-pic{
+    margin-bottom: 50px;
+}
+
+.about .cv-contact button{
+    border-radius: 100px;
+    width: 80%;
+     
+}
+
+.title {
+    margin-bottom: 10%;
+}
+
+.portfolio button{
+    border-radius: 100px;
+    width:70%
+}
+
+.portfolio .card{
+    margin:auto;
+}
+
+html {
+    scroll-behavior: smooth;
+   }
